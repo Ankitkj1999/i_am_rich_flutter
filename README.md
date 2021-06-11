@@ -3,7 +3,7 @@
 A new Flutter application.
 
 ## Getting Started
-<p align="center"><img src="images/Screenshot.png" height="300px"></p>
+<p align="center"><img src="images/Screenshot.png" height="900px"></p>
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
