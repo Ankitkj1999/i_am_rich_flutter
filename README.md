@@ -78,6 +78,7 @@ Simple flutter app just for learning purposes.
 
 ## Screenshots \ Gifs
 
-![I%20Am%20Rich%20ff414265f039406fbedeea66eb24febf/Untitled.png](images/Screenshot.png)
-
+<!-- ![I%20Am%20Rich%20ff414265f039406fbedeea66eb24febf/Untitled.png](images/Screenshot.png)
+ -->
+ <p align="center"><img src="images/Screenshot.png" height="900px"></p>
 I Am Rich Flutter App
